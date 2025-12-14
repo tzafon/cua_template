@@ -2,10 +2,12 @@
 
 A browser automation agent using Tzafon's computer use API.
 
+Get an api key: https://tzafon.ai/dashboard
+
 ## Setup
 
 ```bash
-uv sync
+uv sync --reinstall
 ```
 
 ## Configuration
