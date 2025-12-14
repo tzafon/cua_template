@@ -4,6 +4,9 @@ A browser automation agent using Tzafon's computer use API.
 
 Get an api key: https://tzafon.ai/dashboard
 
+> [!NOTE]
+> We strongly recommend using [uv](https://docs.astral.sh/uv/getting-started/installation/) for dependency management.
+
 ## Setup
 
 ```bash
